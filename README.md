@@ -65,13 +65,13 @@
 <table align = center>
     <tr>
         <td>
-                      <h5>React Çalışmaları</h5>
+                      <h5>React Projects</h5>
             <ol>
                 <li>
                 <a
-                href="https://d1183-mustafa.github.io/React_Static_Clock/"
+                href="https://ekrem0691.github.io/products"
                 target="_blank"
-                   >React_Static_Clock</a>
+                   >React_Router_Project</a>
                 </li>
                 <li>
                 <a
