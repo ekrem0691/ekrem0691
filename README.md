@@ -85,12 +85,7 @@
                 target="_blank"
                    >....</a>
                 </li>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/languages-cards/"
-                target="_blank"
-                   >languages-cards</a>
-                </li>
+              
                 <li>
                 <a
                 href="...."
