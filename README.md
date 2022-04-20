@@ -81,9 +81,9 @@
                 </li>
                <li>
                 <a
-                href="https://d1183-mustafa.github.io/react-todolist/"
+                href="...."
                 target="_blank"
-                   >react-todolist</a>
+                   >....</a>
                 </li>
                 <li>
                 <a
@@ -93,60 +93,54 @@
                 </li>
                 <li>
                 <a
-                href="https://task-tracker-project-mustafa.netlify.app/"
+                href="...."
                 target="_blank"
-                   >task-tracker-project</a>
+                   >....</a>
                 </li>
                 <li>
                 <a
-                href="https://phonebook-mustafa.netlify.app/"
+                href="...."
                 target="_blank"
-                   >ContactApp-PhoneBook</a>
+                   >....</a>
                 </li>
                 <li>
                 <a
-                href="https://d1183-mustafa.github.io/router_working/"
+                href="...."
                 target="_blank"
-                   >router_working</a>
+                   >....</a>
                 </li>
                 <li>
                 <a
-                href="https://altas-random-user-app.netlify.app/"
+                href="...."
                 target="_blank"
-                   >random-user-app</a>
+                   >....</a>
                 </li>
                 <li>
                 <a
-                href="https://d1183-mustafa.github.io/working-routes/"
+                href="...."
                 target="_blank"
-                   >product_Routes_Project</a>
+                   >....</a>
                 </li>
-                <li>
+               
+              <li>
               <a
-                href="https://register-page-altas.netlify.app/"
+                href="...."
                 target="_blank"
-                >register-page-formik</a
+                >....</a
               >
             </li>
             <li>
               <a
-                href="https://d1183-mustafa.github.io/recipes-sites/"
+                href="..../"
                 target="_blank"
-                >recipes-sites</a
+                >....</a
               >
             </li>
             <li>
               <a
-                href="https://d1183-mustafa.github.io/random-user-2/"
+                href="...."
                 target="_blank"
-                >random-user-2</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://d1183-mustafa.github.io/crypto-coins/"
-                target="_blank"
-                >crypto-coins</a
+                >....</a
               >
             </li>
             </ol>
