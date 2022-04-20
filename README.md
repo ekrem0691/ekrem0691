@@ -54,10 +54,7 @@
 <br><br><br><br><br>
 
 <hr>
-
-
-
-
+<hr>
 
 
 
@@ -69,74 +66,94 @@
             <ol>
                 <li>
                 <a
-                href="https://ekrem0691.github.io/react-router-project/"
+                href="https://ekrem0691.github.io/react-router-project"
                 target="_blank"
-                   >React_Router_Project</a>
+                   >React_Router-Project</a>
                 </li>
-               
-               <li>
-                <a
-                href="https://ekrem-bora-06-randomcard.netlify.app/"
-                target="_blank"
-                   >Random Card</a>
-                </li>
-              
                 <li>
+                <a
+                href="https://ekrem-bora-06-randomcard.netlify.app"
+                target="_blank"
+                   >React_Random-Card </a>
+                </li>
+               <li>
                 <a
                 href="https://random-user-app2.netlify.app"
                 target="_blank"
-                   >Random_Card2-App</a>
-                </li>
-                <li>
-                <a
-                href="...."
-                target="_blank"
-                   >....</a>
+                   >React_Random-Card2_User-App2</a>
                 </li>
 <!--                 <li>
                 <a
-                href="...."
+                href="https://d1183-mustafa.github.io/languages-cards/"
                 target="_blank"
-                   >....</a>
+                   >languages-cards</a>
                 </li>
                 <li>
                 <a
-                href="...."
+                href="https://task-tracker-project-mustafa.netlify.app/"
                 target="_blank"
-                   >....</a>
+                   >task-tracker-project</a>
                 </li>
                 <li>
                 <a
-                href="...."
+                href="https://phonebook-mustafa.netlify.app/"
                 target="_blank"
-                   >....</a>
+                   >ContactApp-PhoneBook</a>
                 </li>
-               
-              <li>
-              <a
-                href="...."
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/router_working/"
                 target="_blank"
-                >....</a
-              >
-            </li>
-            <li>
-              <a
-                href="..../"
+                   >router_working</a>
+                </li>
+                <li>
+                <a
+                href="https://altas-random-user-app.netlify.app/"
                 target="_blank"
-                >....</a
-              >
-            </li>
-            <li>
-              <a
-                href="...."
+                   >random-user-app</a>
+                </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/working-routes/"
                 target="_blank"
-                >....</a
-              >
-            </li>
+                   >product_Routes_Project</a>
+                </li>
+                <li>
+                <a
+                href="https://register-page-altas.netlify.app/"
+                target="_blank"
+                >register-page-formik</a
+                >
+               </li>
+                <li>
+               <a
+                href="https://d1183-mustafa.github.io/recipes-sites/"
+                target="_blank"
+                >recipes-sites</a
+                >
+                </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/random-user-2/"
+                target="_blank"
+                >random-user-2</a
+                >
+                </li>
+<!--                 <li>
+                <a
+                href="https://d1183-mustafa.github.io/crypto-coins/"
+                target="_blank"
+                >crypto-coins</a
+                >
+                </li> -->
+                ...
             </ol>
         </td>
-    </tr> -->
+    </tr>
 </table>
+
+
+
 
 
 
