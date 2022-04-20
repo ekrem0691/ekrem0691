@@ -73,13 +73,8 @@
                 target="_blank"
                    >React_Router_Project</a>
                 </li>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/tour-places/"
-                target="_blank"
-                   >tour-places</a>
-                </li>
-               <li>
+               
+<!--                <li>
                 <a
                 href="...."
                 target="_blank"
@@ -140,7 +135,7 @@
             </li>
             </ol>
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 
