@@ -74,18 +74,18 @@
                    >React_Router_Project</a>
                 </li>
                
-<!--                <li>
+               <li>
                 <a
-                href="...."
+                href="https://ekrem-bora-06-randomcard.netlify.app/"
                 target="_blank"
-                   >....</a>
+                   >Random Card</a>
                 </li>
               
                 <li>
                 <a
-                href="...."
+                href="https://random-user-app2.netlify.app"
                 target="_blank"
-                   >....</a>
+                   >Random_Card2-App</a>
                 </li>
                 <li>
                 <a
@@ -93,7 +93,7 @@
                 target="_blank"
                    >....</a>
                 </li>
-                <li>
+<!--                 <li>
                 <a
                 href="...."
                 target="_blank"
