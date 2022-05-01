@@ -80,7 +80,7 @@
                 href="https://random-user-app2.netlify.app"
                 target="_blank"
                    >React_Random-Card2_User-App2</a>
-                </li>,
+                </li>
                
                <li>
                <a
@@ -91,7 +91,7 @@
                 </li>
               
               
-<!--                 <li>
+<!--                <li>
                 <a
                 href="https://d1183-mustafa.github.io/languages-cards/"
                 target="_blank"
@@ -148,7 +148,7 @@
                 >random-user-2</a
                 >
                 </li>
-<!--                 <li>
+                <li>
                 <a
                 href="https://d1183-mustafa.github.io/crypto-coins/"
                 target="_blank"
