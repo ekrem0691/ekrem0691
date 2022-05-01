@@ -81,16 +81,13 @@
                 target="_blank"
                    >React_Random-Card2_User-App2</a>
                 </li>
-               
                <li>
-               <a
+                <a
                 href="https://react-movies-app-1.netlify.app"
                 target="_blank"
                 >react movie-app</a
                 >
-                </li>
-              
-                ...
+               </li>
             </ol>
         </td>
     </tr>
