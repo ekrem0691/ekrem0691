@@ -80,7 +80,17 @@
                 href="https://random-user-app2.netlify.app"
                 target="_blank"
                    >React_Random-Card2_User-App2</a>
+                </li>,
+               
+               <li>
+               <a
+                href="https://react-movies-app-1.netlify.app"
+                target="_blank"
+                >react movie-app</a
+                >
                 </li>
+              
+              
 <!--                 <li>
                 <a
                 href="https://d1183-mustafa.github.io/languages-cards/"
