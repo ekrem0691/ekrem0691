@@ -1,4 +1,4 @@
-# Hello there, I'm Cloud and DevOps Engineer :wave:
+# Hello there, I'm DevOps Engineer :wave:
 ## Connect with Me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-sariyer/)
  
