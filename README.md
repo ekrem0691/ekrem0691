@@ -2,7 +2,7 @@
 ## Connect with Me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-sariyer/)
  
-I am Ekrem SARIYER, a Cloud and DevOps Engineer, as well as a Frontend Developer. I specialize in building distributed, scalable systems using Go, Node.js, and JavaScript. My interests lie in microservices and software development.
+I am Ekrem SARIYER, a Cloud and DevOps Engineer, as well as a Frontend Developer. I specialize in building distributed, scalable systems using Aws, Kubernetes, Docker, Ansible, Jenkins, JavaScript, React. My interests lie in microservices and software development.
 
 ## 🧑‍💻 Professional Skills
 - **Language**: JavaScript, Python
