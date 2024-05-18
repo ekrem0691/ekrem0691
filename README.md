@@ -4,7 +4,7 @@
  
 I am a Cloud and DevOps Engineer, as well as a Frontend Developer, building distributed, scalable systems using Go, Node.js, and JavaScript. My interests lie in microservices and software development.
 
-## :male-technologist: Professional Skills
+## 🧑‍💻 Professional Skills
 - **Language**: JavaScript, Python
 - **Framework**: React, CSS, Bootstrap, Material-UI
 - **DevOps**: AWS, Docker, Kubernetes, Ansible, Jenkins, Terraform, Maven, Nexus
